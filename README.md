@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Daniel Sáez Gambín
 
-I'm a **mathematician**, **statistician**, and **Doctor in Education**, currently pivoting my career towards **data analysis**. I’m passionate about extracting insights from data to solve complex problems and make informed decisions.
+I'm a **mathematician**, **statistician**, and **PhD in Education**, currently pivoting my career towards **data analysis**. I’m passionate about extracting insights from data to solve complex problems and make informed decisions.
 
 ### 🛠️ Tools and languages I work with:
 - **Programming languages and statistical software**: R, SPSS
