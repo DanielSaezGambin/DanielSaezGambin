@@ -14,7 +14,7 @@ I am a **mathematician**, **statistician**, and **PhD in Education**, currently 
   🔸 **SQL**  
   🔸 **Python** (including libraries like Pandas, Matplotlib, and more)  
   🔸 **Power BI**  
-  🔸 You can explore some of my recent data analysis projects on my [**GitHub**](https://github.com/DanielSaezGambin?tab=repositories).
+  🔸 You can explore some of the recent data analysis projects I’m working on as part of my learning process on my [GitHub](https://github.com/DanielSaezGambin?tab=repositories).
 
 
 
