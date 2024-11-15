@@ -24,8 +24,11 @@ I have contributed to various research projects in the educational field, conduc
 
 For a complete list of my publications, please visit my [ResearchGate profile](https://www.researchgate.net/profile/Daniel-Saez-Gambin).
 
-### 📫 How to reach me:
-Feel free to connect through my social channels or email. I'm open to collaboration and new ideas!
+### 📫 How to reach me:  
+Feel free to connect through my social channels or email. I'm open to collaboration and new ideas!  
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Sáez%20Gambín-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-saez-gambin/)  
+- ✉️ [saezgambin.daniel@gmail.com](mailto:saezgambin.daniel@gmail.com)
 
 <!---
 DanielSaezGambin/DanielSaezGambin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
