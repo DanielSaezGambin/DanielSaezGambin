@@ -13,7 +13,7 @@ I am a **mathematician**, **statistician**, and **PhD in Education**, currently 
 - **Currently learning**:  
   🔸 **SQL**  
   🔸 **Python** (including libraries like Pandas, Matplotlib, and more)  
-  🔸 **Power BI**
+  🔸 **Power BI**  
   🔸 You can explore some of my recent data analysis projects on my [**GitHub**](https://github.com/DanielSaezGambin?tab=repositories).
 
 
